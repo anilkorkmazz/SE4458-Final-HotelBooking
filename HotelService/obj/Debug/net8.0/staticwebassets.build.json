@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5uCdcNmRY5elvOFsBOvqHDmoIB+YJxREQvrbG1G0sA8=",
+  "Source": "HotelService",
+  "BasePath": "_content/HotelService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

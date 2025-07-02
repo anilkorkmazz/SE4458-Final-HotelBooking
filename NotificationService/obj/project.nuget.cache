@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kop49b7uWs4=",
+  "success": true,
+  "projectFilePath": "/Users/anilkorkmaz/HotelBookingSystem/NotificationService/NotificationService.csproj",
+  "expectedPackageFiles": [
+    "/Users/anilkorkmaz/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/Users/anilkorkmaz/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/anilkorkmaz/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512",
+    "/Users/anilkorkmaz/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/anilkorkmaz/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/anilkorkmaz/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.14/microsoft.netcore.app.host.osx-arm64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
